@@ -1,0 +1,6 @@
+*.map
+.cache/
+build/
+compile_commands.json
+lib/
+.xmake/
